@@ -19,3 +19,18 @@ h3{
   padding: 10px;
   border: 1px solid #48D1CC;
 }
+.p1 .p2{
+  display: flex;
+  text-align: center;
+  margin-bottom: 50px;
+  border: 1px solid #48D1CC;
+  color: greenyellow;
+}
+.hide1{
+  text-align: center;
+  display:none;
+}
+.hide2{
+  display:none;
+  text-align: center;
+}
