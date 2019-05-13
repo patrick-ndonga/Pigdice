@@ -1,0 +1,11 @@
+/* body {
+  background-image: url('images\pexels-photo-278918.jpeg');
+  background-repeat: no-repeat;
+  background-size: cover;
+} */
+body{
+  background-image: url('https://media.giphy.com/media/ImqHjWFOg7JHq/giphy.gif');
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: red;
+}
