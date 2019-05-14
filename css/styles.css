@@ -29,7 +29,7 @@ h3{
 .hide1{
   text-align: center;
   display:none;
-  color: #800000
+  color: #800000;
 }
 .hide2{
   display:none;
@@ -51,6 +51,7 @@ h3{
   text-align: center;
   margin: 10%;
   color: #800000;
+  font-style: oblique;
 }
 .dice{
   text-align: center;
