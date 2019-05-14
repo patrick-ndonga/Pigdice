@@ -34,3 +34,15 @@ h3{
   display:none;
   text-align: center;
 }
+.clause1{
+  display: none;
+  text-align: center;
+}
+.clause2{
+  display: none;
+  text-align: center;
+}
+.col-md-6{
+  border: 3px solid black;
+  background-color: #FA8072;
+}
