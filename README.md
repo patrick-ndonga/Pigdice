@@ -21,3 +21,4 @@ This is a simple dice game where two players have the chance to roll the dice to
 Contact me @ rick.ndonga@gmail.com
 
 ## License
+Copyright (c) 2019.All rigths reserved
