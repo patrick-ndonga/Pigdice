@@ -29,6 +29,7 @@ h3{
 .hide1{
   text-align: center;
   display:none;
+  color: #800000
 }
 .hide2{
   display:none;
@@ -45,4 +46,15 @@ h3{
 .col-md-6{
   border: 3px solid black;
   background-color: #FA8072;
+}
+.players{
+  text-align: center;
+  margin: 10%;
+  color: #800000;
+}
+.dice{
+  text-align: center;
+}
+#blue{
+  text-align: center;
 }
